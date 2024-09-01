@@ -1,17 +1,15 @@
 
-# PromLink: Prometheus Alert Integration for Mattermost and RocketChat
+# PromLink:  Prometheus Alert Integration for Mattermost and RocketChat
 
 ## Overview
 
-**PromLink** is a seamless integration tool that connects Prometheus Alertmanager with Mattermost and RocketChat channels, enabling organizations to receive real-time alerts directly in their internal communication platforms.
+**PromLink** is a seamless integration tool that connects Prometheus Alertmanager with Mattermost and RocketChat channels, enabling organizations to receive real-time alerts directly in their internal communication platforms. Organizations using Mattermost and RocketChat for internal communication often face challenges in receiving direct alerts from Prometheus Alertmanager. The lack of a straightforward integration mechanism hampers timely responses to critical events. PromLink provides a direct integration between Prometheus Alertmanager and Mattermost/RocketChat, allowing alerts to flow seamlessly into designated channels. This integration ensures that teams can quickly respond to alerts and maintain robust communication during incidents.
 
-## Problem Statement
+## Demo Video
 
-Organizations using Mattermost and RocketChat for internal communication often face challenges in receiving direct alerts from Prometheus Alertmanager. The lack of a straightforward integration mechanism hampers timely responses to critical events.
+Watch the demo video to see PromLink in action:
 
-## Solution
-
-PromLink provides a direct integration between Prometheus Alertmanager and Mattermost/RocketChat, allowing alerts to flow seamlessly into designated channels. This integration ensures that teams can quickly respond to alerts and maintain robust communication during incidents.
+[Demo Vidoe](https://drive.google.com/drive/folders/1-2xgZznPUMZtv6iq4-PhFtKGXvgtlxGK)
 
 ## What is Prometheus?
 
@@ -41,16 +39,13 @@ Mattermost and RocketChat are open-source messaging platforms tailored for team 
 - **Deployment Options**: Available as self-hosted or cloud-based solutions.
 - **Integration Capabilities**: Seamlessly connect with various tools for streamlined workflows.
 
-## Key Insights and System Integration
-
-During the development of PromLink, several key insights were gained:
-
-- **Architecture Clarification**: Initially, there was a misconception that Alertmanager was part of Prometheus's core. It operates as a separate, autonomous component, necessitating a different integration approach.
-- **Community Support**: We leveraged community support to overcome compilation challenges and enhance the robustness of our integration.
-
 ## Comprehensive Documentation
 
 The project includes comprehensive installation and configuration guides to assist users in setting up the integration. This documentation is designed to fill gaps found in existing resources and provide clear, step-by-step instructions.
+
+## Architecture overview
+
+![image](https://github.com/user-attachments/assets/66b8c63b-b250-4b9a-b4d9-2a74374bc62e)
 
 ## Installation
 
