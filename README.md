@@ -9,7 +9,8 @@
 
 Watch the demo video to see PromLink in action:
 
-[Demo Vidoe](https://drive.google.com/drive/folders/1-2xgZznPUMZtv6iq4-PhFtKGXvgtlxGK)
+[![Watch the video](./updated_video_thumbnail.png)](https://www.youtube.com/watch?v=BpbbXHgIpM0)
+
 
 ## What is Prometheus?
 
