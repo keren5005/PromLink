@@ -44,6 +44,7 @@ Mattermost and RocketChat are open-source messaging platforms tailored for team 
 
 The project includes comprehensive installation and configuration guides to assist users in setting up the integration. This documentation is designed to fill gaps found in existing resources and provide clear, step-by-step instructions.
 
+
 ## Architecture overview
 
 ![image](https://github.com/user-attachments/assets/66b8c63b-b250-4b9a-b4d9-2a74374bc62e)
