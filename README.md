@@ -45,7 +45,7 @@ Mattermost and RocketChat are open-source messaging platforms tailored for team 
 The project includes comprehensive installation and configuration guides to assist users in setting up the integration. This documentation is designed to fill gaps found in existing resources and provide clear, step-by-step instructions.
 
 - [Prometheus Server Installation Guide](./Comprehensive%20Documentation/Prometheus_Server_Installation_Guide.md)
-- [Alertmanager Installation and Building in WSL](./Comprehensive%20Documentation/Guide_ Alertmanager Installation and Building in WSL.md)
+- [Alertmanager Installation and Building in WSL](./Comprehensive%20Documentation/Guide_%20Alertmanager%20Installation%20and%20Building%20in%20WSL.md)
 
 
 
