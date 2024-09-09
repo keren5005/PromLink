@@ -47,6 +47,7 @@ The project includes comprehensive installation and configuration guides to assi
 - [Prometheus Server Installation Guide](./Comprehensive%20Documentation/Prometheus_Server_Installation_Guide.md)
 - [Guide: Alertmanager Installation](./Comprehensive%20Documentation/Guide_Alertmanager%20Installation%20and%20Building.md)
 
+
 ## Architecture overview
 
 ![image](https://github.com/user-attachments/assets/66b8c63b-b250-4b9a-b4d9-2a74374bc62e)
